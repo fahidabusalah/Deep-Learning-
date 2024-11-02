@@ -13,13 +13,6 @@ The neural network is a feed-forward model with:
 - **Hidden Layer 2**: 8 neurons with ReLU activation
 - **Output Layer**: 1 neuron with Sigmoid activation for binary classification
 
-# Usage
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/fahidabusalah/HeartDiseasePrediction.git
-
-   pip install -r requirements.txt
 
 
 
